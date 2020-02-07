@@ -15,7 +15,7 @@ function firstQuestion(){
     $('.content').hide();
     Swal.fire({
         title: 'He luu cậu!',
-        text: 'Tớ có điều này muốn hỏi cậu nhớ phải trả lời thật lòng nhaaa.',
+        text: 'Tớ có điều này muốn hỏi cậu nhớ phải trả lời thật lòng nhaaaaa.',
         imageUrl: '../img/cuteCat.jpg',
         imageWidth: 300,
         imageHeight: 300,
@@ -117,7 +117,7 @@ $('#yes').click(function() {
                 text: "Tối nay tớ qua đón cậu đi chơi nhaaaaaaaaa :v Còn giờ thì chờ gì nữa mà ko inbox cho tớ đi nàoooooo",
                 confirmButtonColor: '#83d0c9',
                 onClose: () => {
-                    window.location = 'http://fb.com';
+                    window.location = 'https://www.facebook.com/hungnm2308';
                   }
             })
         }
